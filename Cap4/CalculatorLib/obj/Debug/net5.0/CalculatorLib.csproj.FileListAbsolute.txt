@@ -1,0 +1,12 @@
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\bin\Debug\net5.0\CalculatorLib.deps.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\bin\Debug\net5.0\CalculatorLib.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\bin\Debug\net5.0\ref\CalculatorLib.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\bin\Debug\net5.0\CalculatorLib.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csprojAssemblyReference.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfo.cs
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\CalculatorLib.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\ref\CalculatorLib.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap4\CalculatorLib\obj\Debug\net5.0\CalculatorLib.pdb

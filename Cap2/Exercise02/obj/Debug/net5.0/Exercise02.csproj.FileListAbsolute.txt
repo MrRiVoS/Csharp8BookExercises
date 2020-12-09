@@ -1,0 +1,16 @@
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.csprojAssemblyReference.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfoInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfo.cs
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.csproj.CoreCompileInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\bin\Debug\net5.0\Exercise02.exe
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\bin\Debug\net5.0\Exercise02.deps.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.dev.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\bin\Debug\net5.0\Exercise02.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\bin\Debug\net5.0\ref\Exercise02.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\bin\Debug\net5.0\Exercise02.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\ref\Exercise02.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Exercise02\obj\Debug\net5.0\Exercise02.genruntimeconfig.cache

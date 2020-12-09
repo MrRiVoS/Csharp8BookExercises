@@ -1,0 +1,12 @@
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\bin\Debug\net5.0\PacktLibrary.deps.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\bin\Debug\net5.0\PacktLibrary.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\bin\Debug\net5.0\ref\PacktLibrary.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\bin\Debug\net5.0\PacktLibrary.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csprojAssemblyReference.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfo.cs
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\PacktLibrary.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\ref\PacktLibrary.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap5\PacktLibrary\obj\Debug\net5.0\PacktLibrary.pdb

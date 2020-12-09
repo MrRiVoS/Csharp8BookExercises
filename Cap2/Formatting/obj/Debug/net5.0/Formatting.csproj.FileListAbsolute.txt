@@ -1,0 +1,16 @@
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\bin\Debug\net5.0\Formatting.exe
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\bin\Debug\net5.0\Formatting.deps.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\bin\Debug\net5.0\Formatting.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\bin\Debug\net5.0\ref\Formatting.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\bin\Debug\net5.0\Formatting.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.csprojAssemblyReference.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\ref\Formatting.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache
