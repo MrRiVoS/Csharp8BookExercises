@@ -1,0 +1,16 @@
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csprojAssemblyReference.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfo.cs
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.exe
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.deps.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.dev.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\bin\Debug\net5.0\ref\HandlingExceptions.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap3\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache

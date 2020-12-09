@@ -1,0 +1,16 @@
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\bin\Debug\net5.0\Arguments.exe
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\bin\Debug\net5.0\Arguments.deps.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.dev.json
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\bin\Debug\net5.0\Arguments.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\bin\Debug\net5.0\ref\Arguments.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\bin\Debug\net5.0\Arguments.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.csprojAssemblyReference.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfoInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfo.cs
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.csproj.CoreCompileInputs.cache
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\ref\Arguments.dll
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.pdb
+D:\Programas\Meus Programas\Livro - C#8 e .NETCore3\Cap2\Arguments\obj\Debug\net5.0\Arguments.genruntimeconfig.cache

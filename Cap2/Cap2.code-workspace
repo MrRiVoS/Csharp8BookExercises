@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Cap2\\Arrays"
+		},
+		{
+			"path": "Cap2\\NullHandling"
+		},
+		{
+			"path": "Cap2\\Formatting"
+		}
+	],
+	"settings": {}
+}
