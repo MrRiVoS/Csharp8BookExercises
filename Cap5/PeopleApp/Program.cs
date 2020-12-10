@@ -32,7 +32,7 @@ namespace PeopleApp
       //   DateOfBirth = new DateTime(1998, 3, 7)
       // };
 
-      WriteLine($"{bob.Name} is a {Person.Species}");
+      // WriteLine($"{bob.Name} is a {Person.Species}");
       // WriteLine("{0} was born on {1:dddd, d MMMM yyyy}", bob.Name, bob.DateOfBirth);
       // WriteLine("{0}'s favorite wonder is {1}. It's integer is {2}.",
       //   bob.Name, bob.FavoriteAncientWonder, (int)bob.FavoriteAncientWonder);
@@ -101,25 +101,113 @@ namespace PeopleApp
 
       // WriteLine($"After: d = {d}, e = {e}, f = {f}");
 
-      var sam = new Person{ Name = "Sam", DateOfBirth = new DateTime(1972, 1, 27)};
+      // var sam = new Person{ Name = "Sam", DateOfBirth = new DateTime(1972, 1, 27)};
 
-      WriteLine(sam.Origin);
-      WriteLine(sam.Greeting);
-      WriteLine(sam.Age);
+      // WriteLine(sam.Origin);
+      // WriteLine(sam.Greeting);
+      // WriteLine(sam.Age);
 
-      sam.FavoriteIceCream = "Chocolate Fudge";
-      sam.FavoritePrimaryColor = "Blue";
+      // sam.FavoriteIceCream = "Chocolate Fudge";
+      // sam.FavoritePrimaryColor = "Blue";
 
-      WriteLine($"Sam's favorite ice cream flavor is {sam.FavoriteIceCream}.");
-      WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
+      // WriteLine($"Sam's favorite ice cream flavor is {sam.FavoriteIceCream}.");
+      // WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
 
-      sam.Children.Add( new Person{ Name = "Charlie" });
-      sam.Children.Add( new Person{ Name = "Ella" });
+      // sam.Children.Add( new Person{ Name = "Charlie" });
+      // sam.Children.Add( new Person{ Name = "Ella" });
 
-      WriteLine($"Sam's first child is {sam.Children[0].Name}");
-      WriteLine($"Sam's second child is {sam.Children[1].Name}");
-      WriteLine($"Sam's first child is {sam[0].Name}");
-      WriteLine($"Sam's second child is {sam[1].Name}");
+      // WriteLine($"Sam's first child is {sam.Children[0].Name}");
+      // WriteLine($"Sam's second child is {sam.Children[1].Name}");
+      // WriteLine($"Sam's first child is {sam[0].Name}");
+      // WriteLine($"Sam's second child is {sam[1].Name}");
+
+      var harry = new Person { Name = "Harry"};
+      var mary = new Person { Name = "Mary"};
+      var jill = new Person { Name = "Jill"};
+
+      // call instance method
+      var baby1 = mary.ProcreateWith(harry);
+
+      // call static method
+      var baby2 = Person.Procreate(harry, jill);
+
+      // call an operator
+      var baby3 = harry * mary;
+
+      // WriteLine($"{harry.Name} has {harry.Children.Count} children.");
+      // WriteLine($"{mary.Name} has {mary.Children.Count} children.");
+      // WriteLine($"{jill.Name} has {jill.Children.Count} children.");
+
+      // WriteLine(
+      //   format: "{0}'s first child is named \"{1}\".",
+      //   arg0: harry.Name,
+      //   arg1: harry.Children[0].Name
+      // );
+
+      // WriteLine($"5! is {Person.Factorial(5)}");
+
+      harry.Shout += Harry_Shout;
+
+      harry.Poke();
+      harry.Poke();
+      harry.Poke();
+      harry.Poke();
+
+      Person[] people =
+      {
+        new Person { Name = "Simon"},
+        new Person { Name = "Jenny"},
+        new Person { Name = "Adam"},
+        new Person { Name = "Richard"}
+      };
+
+      WriteLine("Initial list of people:");
+      foreach (var person in people)
+      {
+        WriteLine($"{person.Name}");
+      }
+
+      WriteLine("\nUse Person's IComparable implementation to sort:");
+      Array.Sort(people);
+      foreach (var person in people)
+      {
+        WriteLine($"{person.Name}");
+      }
+
+      WriteLine("\nUse PersonComparer's IComparable implementation to sort:");
+      Array.Sort(people, new PersonComparer());
+      foreach (var person in people)
+      {
+        WriteLine($"{person.Name}");
+      }
+
+      var t1 = new Thing();
+      t1.Data = 42;
+      WriteLine($"Thing with an integer: {t1.Process(42)}");
+
+      var t2 = new Thing();
+      t2.Data = "apple";
+      WriteLine($"Thing with a string: {t2.Process("apple")}");
+
+      var gt1 = new GenericThing<int>();
+      gt1.Data = 42;
+      WriteLine($"GenericThing with an integer: {gt1.Process(42)}");
+
+      var gt2 = new GenericThing<string>();
+      gt2.Data = "apple";
+      WriteLine($"GenericThing with a string: {gt2.Process("apple")}");
+
+      string number1 = "4";
+      WriteLine("{0} squared is {1}", number1, Squarer.Square<string>(number1));
+
+      byte number2 = 3;
+      WriteLine("{0} squared is {1}", number2, Squarer.Square(number2));
+    }
+
+    private static void Harry_Shout(object sender, EventArgs e)
+    {
+      Person p = (Person)sender;
+      WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
     }
   }
 }

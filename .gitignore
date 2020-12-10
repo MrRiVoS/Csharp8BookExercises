@@ -1,0 +1,7 @@
+# Files related to compilation
+*.dll
+*.cache
+
+# Folders related to compilation
+./*/bin/*
+./*/obj/*
