@@ -202,6 +202,84 @@ namespace PeopleApp
 
       byte number2 = 3;
       WriteLine("{0} squared is {1}", number2, Squarer.Square(number2));
+
+      var dv1 = new DisplacementVector(3, 5);
+      var dv2 = new DisplacementVector(-2, 7);
+      var dv3 = dv1 + dv2;
+
+      WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
+
+      Employee john = new Employee{Name = "John Jones", DateOfBirth = new DateTime(1990,7,28)};
+      john.WriteToConsole();
+
+      john.EmployeeCode = "JJ001";
+      john.HireDate = new DateTime(2014, 11,23);
+      WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
+
+      WriteLine(john.ToString());
+
+      Employee aliceInEmployee = new Employee{ Name = "Alice", EmployeeCode = "AA123"};
+
+      Person aliceInPerson = aliceInEmployee;
+
+      aliceInEmployee.WriteToConsole();
+      aliceInPerson.WriteToConsole();
+      
+      WriteLine(aliceInEmployee.ToString());
+      WriteLine(aliceInPerson.ToString());
+
+      if (aliceInPerson is Employee)
+      {
+        WriteLine($"{nameof(aliceInPerson)} IS an Employee");
+        Employee explicitAlice = (Employee)aliceInPerson;
+      }
+
+      Employee aliceAsEmployee = aliceInPerson as Employee;
+
+      if(aliceAsEmployee != null)
+      {
+        WriteLine($"{nameof(aliceInPerson)} AS an Employee");
+      }
+
+      try
+      {
+        john.TimeTravel(new DateTime(1999, 12, 31));
+        john.TimeTravel(new DateTime(1950, 12, 25));
+      }
+      catch (PersonException ex)
+      {
+        WriteLine(ex.Message);
+      }
+
+      string email1 = "pamela@test.com";
+      string email2 = "ian&test.com";
+
+      // static version
+      WriteLine(
+        format: "{0} is a valid email address: {1}",
+        arg0: email1,
+        arg1: StringExtensions.IsValidEmail(email1)
+      );
+
+      WriteLine(
+        format: "{0} is a valid email address: {1}",
+        arg0: email2,
+        arg1: StringExtensions.IsValidEmail(email2)
+      );
+
+      // extended string version
+      WriteLine(
+        format: "{0} is a valid email address: {1}",
+        arg0: email1,
+        arg1: email1.IsValidEmail()
+      );
+
+      WriteLine(
+        format: "{0} is a valid email address: {1}",
+        arg0: email2,
+        arg1: email2.IsValidEmail()
+      );
+
     }
 
     private static void Harry_Shout(object sender, EventArgs e)
