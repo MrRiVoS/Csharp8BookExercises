@@ -11,6 +11,9 @@
     },
     {
       "path": "WorkingWithLists"
+    },
+    {
+      "path": "WorkingWithDictionaries"
     }
   ],
   "settings": {}
