@@ -14,6 +14,18 @@
     },
     {
       "path": "WorkingWithDictionaries"
+    },
+    {
+      "path": "WorkingWithRanges"
+    },
+    {
+      "path": "WorkingWithNetwork"
+    },
+    {
+      "path": "WorkingWithReflection"
+    },
+    {
+      "path": "Internationalization"
     }
   ],
   "settings": {}
