@@ -123,6 +123,12 @@ namespace WorkingWithFileSystems
       WriteLine($"File extension: {GetExtension(textFile)}");
       WriteLine($"Random file name: {GetRandomFileName()}");
       WriteLine($"Temporary file name: {GetTempFileName()}");
+
+      var info = new FileInfo(backupFile);
+      WriteLine($"{backupFile}:");
+      WriteLine($"- Contains {info.Length} bytes.");
+      WriteLine($"- Was last accessed on {info.LastAccessTime}.");
+      WriteLine($"- Has readonly set to {info.IsReadOnly}.");
     }
   }
 }
