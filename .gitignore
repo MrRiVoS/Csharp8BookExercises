@@ -1,7 +1,13 @@
 # Files related to compilation
 *.dll
 *.cache
+*.exe
+*.pdb
+*.assets.json
+*.nuget.*
+lib*.*
 
 # Folders related to compilation
-./*/bin/*
-./*/obj/*
+**/bin/*
+**/obj/*
+**/.vscode/*
